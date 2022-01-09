@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "balloon",
+    "file": "dist/images/rewards/balloon.svg",
+    "difficulty": 3,
+    "size": "large",
+    "preloadImages": [
+      "dist/images/rewards/animations/balloon.svg"
+    ]
+  },
+  {
+    "id": "bike",
+    "customer_name_excluded": ["vancouver", "regina"],
+    "file": "dist/images/rewards/bike.svg",
+    "difficulty": 1,
+    "size": "small"
+  },
+  {
+    "id": "birds",
+    "file": "dist/images/rewards/birds.svg",
+    "difficulty": 2,
+    "size": "small"
+  },
+  {
+    "id": "bouncy-castle",
+    "customer_name_excluded": ["vancouver", "ecomaineme", "orangecountyfl"],
+    "file": "dist/images/rewards/bouncy-castle.svg",
+    "difficulty": 2,
+    "size": "large"
+  },
+  {
+    "id": "brontosaurus",
+    "file": "dist/images/rewards/brontosaurus.svg",
+    "customer_name_excluded": ["ecomaineme"],
+    "difficulty": 3,
+    "size": "extra-large",
+    "preloadImages": [
+      "dist/images/rewards/animations/brontosaurus.svg"
+    ]
+  },
+  {
+    "id": "cardinal",
+    "file": "dist/images/cities/glendaleaz/rewards/cardinal.svg",
+    "difficulty": 3,
+    "size": "small"
+  },
+  {
+    "id": "castle",
+    "file": "dist/images/rewards/castle.svg",
+    "difficulty": 3,
+    "size": "large"
+  },
+  {
+    "id": "cheshire-cat",
+    "file": "dist/images/rewards/cheshire-cat.svg",
+    "customer_name_excluded": ["ecomaineme", "emmetcountymi", "orangecountyfl"],
+    "difficulty": 2,
+    "size": "medium",
+    "preloadImages": [
+      "dist/images/rewards/cheshire-cat-body.svg",
+      "dist/images/rewards/cheshire-cat-head.svg",
+      "dist/images/rewards/cheshire-cat-teeth.svg"
+    ]
+  },
+  {
+    "id": "dog",
+    "file": "dist/images/rewards/dog.svg",
+    "customer_name_excluded": ["orangecountyfl"],
+    "difficulty": 2,
+    "size": "large"
+  },
+  {
+    "id": "ferris-wheel",
+    "file": "dist/images/rewards/ferris-wheel.svg",
+    "difficulty": 3,
+    "size": "large",
+    "preloadImages": [
+      "dist/images/rewards/animations/ferris-wheel.svg"
+    ]
+  },
+  {
+    "id": "fish",
+    "file": "dist/images/rewards/fish.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "preloadImages": [
+      "dist/images/rewards/flying-fish.svg",
+      "dist/images/rewards/empty-fish-pond.svg"
+    ]
+  },
+  {
+    "id": "fountain",
+    "file": "dist/images/rewards/fountain.svg",
+    "difficulty": 2,
+    "size": "extra-large",
+    "preloadImages": [
+      "dist/images/rewards/animations/fountain.svg"
+    ]
+  },
+  {
+    "id": "halfpipe",
+    "file": "dist/images/rewards/halfpipe.svg",
+    "difficulty": 3,
+    "size": "large"
+  },
+  {
+    "id": "nessie",
+    "file": "dist/images/rewards/nessie.svg",
+    "customer_name_excluded": ["vancouver", "ecomaineme"],
+    "difficulty": 2,
+    "size": "medium"
+  },
+  {
+    "id": "ogopogo",
+    "file": "dist/images/rewards/ogopogo.svg",
+    "customer_name_excluded": ["ecomaineme"],
+    "difficulty": 2,
+    "size": "large",
+    "preloadImages": [
+      "dist/images/rewards/animations/ogopogo.svg"
+    ]
+  },
+  {
+    "id": "picnic-bench",
+    "file": "dist/images/rewards/picnic-bench.svg",
+    "customer_name_excluded": ["kamloopsbc", "gnbrrmd-dartmouthma", "gnbrrmd-newbedfordma"],
+    "difficulty": 1,
+    "size": "small"
+  },
+  {
+    "id": "pirate-ship",
+    "file": "dist/images/rewards/pirate-ship.svg",
+    "difficulty": 2,
+    "size": "large"
+  },
+  {
+    "id": "plants",
+    "file": "dist/images/rewards/plants.svg",
+    "customer_name_excluded": ["vancouver", "regina"],
+    "difficulty": 1,
+    "size": "medium-short"
+  },
+  {
+    "id": "playground",
+    "file": "dist/images/rewards/playground.svg",
+    "difficulty": 1,
+    "size": "medium"
+  },
+  {
+    "id": "pond",
+    "customer_name_excluded": ["vancouver", "regina"],
+    "file": "dist/images/rewards/pond.svg",
+    "difficulty": 1,
+    "size": "medium-short"
+  },
+  {
+    "id": "rainbow",
+    "file": "dist/images/rewards/rainbow.svg",
+    "customer_name_excluded": ["orangecountyfl"],
+    "difficulty": 2,
+    "size": "extra-large"
+  },
+  {
+    "id": "sandwich",
+    "file": "dist/images/rewards/sandwich.svg",
+    "customer_name_excluded": ["fortstjohn", "ecomaineme", "gnbrrmd-dartmouthma", "gnbrrmd-newbedfordma", "emmetcountymi", "orangecountyfl"],
+    "difficulty": 2,
+    "size": "medium"
+  },
+  {
+    "id": "ship",
+    "file": "dist/images/rewards/ship.svg",
+    "customer_name_excluded": ["vancouver", "regina"],
+    "difficulty": 1,
+    "size": "medium"
+  },
+  {
+    "id": "shorter-trees",
+    "file": "dist/images/rewards/shorter-trees.svg",
+    "difficulty": 1,
+    "size": "medium"
+  },
+  {
+    "id": "slide",
+    "file": "dist/images/rewards/slide.svg",
+    "customer_name_excluded": ["vancouver", "regina", "lethbridge"],
+    "difficulty": 1,
+    "size": "small"
+  },
+  {
+    "id": "snowman",
+    "file": "dist/images/rewards/snowman.svg",
+    "customer_name_excluded": ["vancouver", "orangecountyfl"],
+    "difficulty": 2,
+    "size": "medium"
+  },
+  {
+    "id": "space-shuttle",
+    "file": "dist/images/rewards/space-shuttle.svg",
+    "customer_name_excluded": ["vancouver", "ecomaineme", "emmetcountymi"],
+    "difficulty": 3,
+    "size": "large"
+  },
+  {
+    "id": "swingset",
+    "file": "dist/images/rewards/swingset.svg",
+    "customer_name_excluded": ["vancouver", "regina"],
+    "difficulty": 1,
+    "size": "small"
+  },
+  {
+    "id": "t-rex",
+    "file": "dist/images/rewards/t-rex.svg",
+    "customer_name_excluded": ["ecomaineme"],
+    "difficulty": 3,
+    "size": "extra-large",
+    "preloadImages": [
+      "dist/images/rewards/animations/t-rex.svg"
+    ]
+  },
+  {
+    "id": "teeter-totter",
+    "file": "dist/images/rewards/teeter-totter.svg",
+    "difficulty": 1,
+    "size": "small"
+  },
+  {
+    "id": "trees",
+    "file": "dist/images/rewards/trees.svg",
+    "difficulty": 1,
+    "size": "medium"
+  },
+  {
+    "id": "ufo-modern",
+    "file": "dist/images/rewards/ufo-modern.svg",
+    "customer_name_excluded": ["ecomaineme", "howardcountymd"],
+    "difficulty": 3,
+    "size": "large"
+  },
+  {
+    "id": "ufo-retro",
+    "file": "dist/images/rewards/ufo-retro.svg",
+    "customer_name_excluded": ["ecomaineme", "howardcountymd"],
+    "difficulty": 2,
+    "size": "large"
+  },
+  {
+    "id": "monolith",
+    "file": "dist/images/rewards/monolith.svg",
+    "customer_name_excluded": ["ecomaineme", "howardcountymd", "raleighnc", "madisoncountyny", "eurekarecyclingmn", "emmetcountymi", "orangecountyfl"],
+    "difficulty": 3,
+    "size": "medium",
+    "preloadImages": [
+      "dist/images/rewards/animations/monolith.svg"
+    ]
+  },
+  {
+    "id": "trampoline",
+    "file": "dist/images/rewards/trampoline.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "preloadImages": [
+      "dist/images/rewards/animations/trampoline.svg"
+    ]
+  },
+  {
+    "id": "cauldron",
+    "file": "dist/images/cities/vancouver/rewards/cauldron.svg",
+    "difficulty": 2,
+    "size": "large",
+    "customer_name": ["vancouver"],
+    "preloadImages": [
+      "dist/images/cities/vancouver/rewards/animations/cauldron.svg"
+    ]
+  },
+  {
+    "id": "east-van",
+    "file": "dist/images/cities/vancouver/rewards/east-van.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["vancouver"],
+    "preloadImages": [
+      "dist/images/cities/vancouver/rewards/animations/east-van-glow.svg"
+    ]
+  },
+  {
+    "id": "dude-chilling",
+    "file": "dist/images/cities/vancouver/rewards/dude-chilling.svg",
+    "difficulty": 2,
+    "size": "medium",
+    "customer_name": ["vancouver"]
+  },
+  {
+    "id": "bard-beach",
+    "file": "dist/images/cities/vancouver/rewards/bard-beach.svg",
+    "difficulty": 1,
+    "size": "extra-large-short",
+    "customer_name": ["vancouver"]
+  },
+  {
+    "id": "inukshuk",
+    "file": "dist/images/cities/vancouver/rewards/inukshuk.svg",
+    "difficulty": 2,
+    "size": "medium",
+    "customer_name": ["vancouver"]
+  },
+  {
+    "id": "bike-share",
+    "file": "dist/images/cities/vancouver/rewards/bike-share.svg",
+    "difficulty": 1,
+    "size": "medium-short",
+    "customer_name": ["vancouver"]
+  },
+  {
+    "id": "dragon-boat",
+    "file": "dist/images/cities/vancouver/rewards/dragon-boat.svg",
+    "difficulty": 2,
+    "size": "large-short",
+    "customer_name": ["vancouver"]
+  },
+  {
+    "id": "orca",
+    "file": "dist/images/cities/vancouver/rewards/orca.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["vancouver", "tacomawa", "indigenouszerowaste"],
+    "preloadImages": [
+      "dist/images/cities/vancouver/rewards/animations/orca-digital.svg"
+    ]
+  },
+  {
+    "id": "fireworks",
+    "file": "dist/images/cities/vancouver/rewards/fireworks.svg",
+    "difficulty": 3,
+    "size": "extra-large",
+    "customer_name": ["vancouver", "emmetcountymi", "sunyoneonta"],
+    "preloadImages": [
+      "dist/images/cities/vancouver/rewards/animations/fireworks.svg"
+    ]
+  },
+  {
+    "id": "pop-up-city-hall",
+    "file": "dist/images/cities/vancouver/rewards/pop-up-city-hall.svg",
+    "difficulty": 3,
+    "size": "extra-large",
+    "customer_name": ["vancouver"],
+    "preloadImages": [
+      "dist/images/cities/vancouver/rewards/animations/pop-up-city-hall.svg"
+    ]
+  },
+  {
+    "id": "skytrain",
+    "file": "dist/images/cities/vancouver/rewards/skytrain.svg",
+    "difficulty": 3,
+    "size": "skytrain",
+    "customer_name": ["vancouver"],
+    "preloadImages": [
+      "dist/images/cities/vancouver/rewards/animations/skytrain-track.svg",
+      "dist/images/cities/vancouver/rewards/animations/skytrain-blue.svg",
+      "dist/images/cities/vancouver/rewards/animations/skytrain-white.svg"
+    ]
+  },
+  {
+    "id": "steamclock",
+    "file": "dist/images/cities/vancouver/rewards/steamclock.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["vancouver"],
+    "preloadImages": [
+      "dist/images/cities/vancouver/rewards/animations/steamclock.svg"
+    ]
+  },
+  {
+    "id": "horses",
+    "file": "dist/images/cities/langley/horses.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["langley", "emmetcountymi", "klickitatcountywa", "chilliwackbc"]
+  },
+  {
+    "id": "curby",
+    "file": "dist/images/cities/mcallen/curby.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["mcallen"]
+  },
+  {
+    "id": "poco-tires",
+    "file": "dist/images/cities/portcoquitlam/tires-reward.svg",
+    "difficulty": 3,
+    "size": "large-short",
+    "customer_name": ["portcoquitlam"]
+  },
+  {
+    "id": "new-rider-stadium",
+    "file": "dist/images/cities/regina/rewards/new-rider-stadium.svg",
+    "difficulty": 1,
+    "size": "large",
+    "customer_name": ["regina"]
+  },
+  {
+    "id": "newton-hall",
+    "file": "dist/images/cities/newton/newton-hall.svg",
+    "difficulty": 1,
+    "size": "extra-large",
+    "customer_name": ["newton"]
+  },
+  {
+    "id": "disc-golf",
+    "file": "dist/images/rewards/disc-golf.svg",
+    "difficulty": 1,
+    "size": "small",
+    "customer_name": ["fortstjohn"],
+    "preloadImages": [
+      "dist/images/rewards/disc-golf-net.svg",
+      "dist/images/rewards/disc-golf-disc.svg"
+    ]
+  },
+    {
+    "id": "yellow-roses",
+    "file": "dist/images/cities/morden/rewards/yellow-roses.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["morden"]
+  },
+  {
+    "id": "eagle",
+    "file": "dist/images/cities/charlescounty/rewards/eagle.svg",
+    "difficulty": 1,
+    "size": "small",
+    "customer_name": ["charlescounty", "madisoncountyny", "emmetcountymi", "tacomawa", "indigenouszerowaste", "chilliwackbc"]
+  },
+  {
+    "id": "pagoda",
+    "file": "dist/images/cities/peterborough/pagoda.svg",
+    "difficulty": 1,
+    "size": "large",
+    "customer_name": ["peterborough"]
+  },
+  {
+    "id": "big-rock",
+    "file": "dist/images/cities/okotoks/big-rock.svg",
+    "difficulty": 1,
+    "size": "extra-large",
+    "customer_name": ["okotoks"]
+  },
+  {
+    "id": "tallship",
+    "file": "dist/images/cities/scrrra/tallship.svg",
+    "difficulty": 1,
+    "size": "large",
+    "customer_name": ["scrrra"]
+  },
+  {
+    "id": "hartsville",
+    "file": "dist/images/cities/hartsville/Eat-sign.svg",
+    "difficulty": 1,
+    "size": "large",
+    "customer_name": ["hartsville"]
+  },
+  {
+    "id": "scary-racoon",
+    "file": "dist/images/cities/scottcounty/scary-racoon.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["scottcounty"]
+  },
+  {
+    "id": "water_park",
+    "file": "dist/images/cities/sprucegrove/water-park.svg",
+    "difficulty": 1,
+    "size": "extra-large",
+    "customer_name": ["sprucegrove"]
+  },
+  {
+    "id": "frank-ney-statue",
+    "file": "dist/images/cities/nanaimobc/frank-ney-statue.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["nanaimobc"]
+  },
+  {
+    "id": "nanaimo-bar",
+    "file": "dist/images/cities/nanaimobc/nanaimo-bar.svg",
+    "difficulty": 1,
+    "size": "large",
+    "customer_name": ["nanaimobc"]
+  },
+  {
+    "id": "first-aid-kit",
+    "file": "dist/images/cities/sanofipasteur/first-aid-kit.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["sanofipasteur"]
+  },
+  {
+    "id": "bears",
+    "file": "dist/images/cities/texasdisposalsystem/bears.svg",
+    "difficulty": 1,
+    "size": "large",
+    "customer_name": ["texasdisposalsystem", "chilliwackbc"]
+  },
+  {
+    "id": "lake-merritt",
+    "file": "dist/images/cities/oaklandca/lake-merritt.svg",
+    "difficulty": 1,
+    "size": "large",
+    "customer_name": ["oaklandca"]
+  },
+  {
+    "id": "community-garden",
+    "file": "dist/images/cities/ecomaineme/community-garden.svg",
+    "difficulty": 3,
+    "size": "large",
+    "customer_name": ["ecomaineme", "indigenouszerowaste", "univofmanitoba", "sunyoneonta", "chilliwackbc"]
+  },
+  {
+    "id": "moose",
+    "file": "dist/images/cities/ecomaineme/moose.svg",
+    "difficulty": 3,
+    "size": "extra-large",
+    "customer_name": ["ecomaineme"]
+  },
+  {
+    "id": "barnyard",
+    "file": "dist/images/cities/outagamiecountywi/barnyard.svg",
+    "difficulty": 1,
+    "size": "extra-large",
+    "customer_name": ["outagamiecountywi", "emmetcountymi", "chilliwackbc"]
+  },
+  {
+    "id": "columbia-wizard",
+    "file": "dist/images/cities/columbia/wizard.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["columbia"]
+  },
+  {
+    "id": "denver-blue-bear",
+    "file": "dist/images/cities/denver/blue-bear.svg",
+    "difficulty": 1,
+    "size": "small",
+    "customer_name": ["denver"]
+  },
+  {
+    "id": "keywest-water-park",
+    "file": "dist/images/cities/keywestfl/water-park.svg",
+    "difficulty": 1,
+    "size": "large",
+    "customer_name": ["keywestfl"]
+  },
+  {
+    "id": "durango-train",
+    "file": "dist/images/cities/durangoco/train.svg",
+    "difficulty": 3,
+    "size": "durango-train",
+    "customer_name": ["durangoco"],
+    "preloadImages": [
+      "dist/images/cities/durangoco/animations/train.svg"
+    ]
+  },
+  {
+    "id": "richmond-canada-line",
+    "file": "dist/images/cities/richmond/rewards/canada-line.svg",
+    "difficulty": 3,
+    "size": "skytrain",
+    "customer_name": ["richmond"],
+    "preloadImages": [
+      "dist/images/cities/richmond/rewards/canada-line-track.svg",
+      "dist/images/cities/richmond/rewards/canada-line-train.svg"
+    ]
+  },
+  {
+    "id": "richmond-chrome-sculpture",
+    "file": "dist/images/cities/richmond/rewards/chrome-sculpture.svg",
+    "difficulty": 1,
+    "size": "large",
+    "customer_name": ["richmond"]
+  },
+  {
+    "id": "excavator",
+    "file": "dist/images/cities/richmond/rewards/excavator.svg",
+    "difficulty": 3,
+    "size": "large",
+    "customer_name": ["richmond"],
+    "preloadImages": [
+      "dist/images/cities/richmond/rewards/excavator-animation.svg"
+    ]
+  },
+  {
+    "id": "richmond-fishermans-needle",
+    "file": "dist/images/cities/richmond/rewards/fishermans-needle.svg",
+    "difficulty": 2,
+    "size": "medium",
+    "customer_name": ["richmond"]
+  },
+  {
+    "id": "richmond-fishermans-wharf",
+    "file": "dist/images/cities/richmond/rewards/fishermans-wharf.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["richmond"]
+  },
+  {
+    "id": "richmond-minoru-chapel",
+    "file": "dist/images/cities/richmond/rewards/minoru-chapel.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["richmond"]
+  },
+  {
+    "id": "salmon",
+    "file": "dist/images/cities/richmond/rewards/salmon.svg",
+    "difficulty": 2,
+    "size": "small",
+    "customer_name": ["richmond", "tacomawa", "indigenouszerowaste", "chilliwackbc"]
+  },
+  {
+    "id": "seaplane",
+    "file": "dist/images/cities/richmond/rewards/seaplane.svg",
+    "difficulty": 3,
+    "size": "small",
+    "customer_name": ["richmond"]
+  },
+  {
+    "id": "richmond-slide",
+    "file": "dist/images/cities/richmond/rewards/slide.svg",
+    "difficulty": 2,
+    "size": "medium",
+    "customer_name": ["richmond"]
+  },
+  {
+    "id": "snow-geese",
+    "file": "dist/images/cities/richmond/rewards/snow-geese.svg",
+    "difficulty": 2,
+    "size": "small",
+    "customer_name": ["richmond", "chilliwackbc"]
+  },
+  {
+    "id": "richmond-speed-skater",
+    "file": "dist/images/cities/richmond/rewards/speed-skater.svg",
+    "difficulty": 1,
+    "size": "small",
+    "customer_name": ["richmond", "emmetcountymi"]
+  },
+  {
+    "id": "richmond-steveston-tram",
+    "file": "dist/images/cities/richmond/rewards/steveston-tram.svg",
+    "difficulty": 2,
+    "size": "medium",
+    "customer_name": ["richmond"]
+  },
+  {
+    "id": "region6ns-lighthouse",
+    "file": "dist/images/cities/region6ns/rewards/lighthouse.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["region6ns"]
+  },
+  {
+    "id": "cmcmua-toucan",
+    "file": "dist/images/cities/cmcmua/rewards/toucan.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["cmcmua"]
+  },
+  {
+    "id": "boulder-buffalo",
+    "file": "dist/images/rewards/buffalo.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["boulder", "univofmanitoba"]
+  },
+  {
+    "id": "teepees",
+    "file": "dist/images/cities/saskatoon/rewards/teepees.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["saskatoon"]
+  },
+  {
+    "id": "cactus",
+    "file": "dist/images/cities/phoenixaz/rewards/cactus.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["phoenixaz", "peoriaaz"]
+  },
+  {
+    "id": "lynn-valley-suspension-bridge",
+    "file": "dist/images/cities/distnorthvancouver/rewards/lynn-valley-suspension-bridge.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["distnorthvancouver"]
+  },
+  {
+    "id": "headframe",
+    "file": "dist/images/cities/timminson/rewards/headframe.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["timminson"]
+  },
+  {
+    "id": "george-gibsons",
+    "file": "dist/images/cities/townofgibsonsbc/george-gibsons.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["graycodisposalbc", "townofgibsonsbc"]
+  },
+  {
+    "id": "beaver",
+    "file": "dist/images/cities/lethbridge/lil-beaver-dude.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["lethbridge", "kamloopsbc"]
+  },
+  {
+    "id": "otter",
+    "file": "dist/images/cities/montereyregional/rewards/otter.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["montereyregional", "emmetcountymi"]
+  },
+  {
+    "id": "us-flag",
+    "file": "dist/images/cities/howardcountymd/rewards/us-flag.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["howardcountymd", "madisoncountyny"]
+  },
+  {
+    "id": "bridge",
+    "file": "dist/images/cities/stearnscountymn/rewards/bridge.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["stearnscountymn"]
+  },
+  {
+    "id": "crane",
+    "file": "dist/images/cities/citynorthvancouver/rewards/crane.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["citynorthvancouver"]
+  },
+  {
+    "id": "coyote",
+    "file": "dist/images/cities/eco-cycleco/rewards/coyote.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["eco-cycleco", "glendaleaz", "emmetcountymi"]
+  },
+  {
+    "id": "bear",
+    "file": "dist/images/cities/yampavalleyco/rewards/bear.svg",
+    "difficulty": 3,
+    "size": "small",
+    "customer_name": ["yampavalleyco", "emmetcountymi"]
+  },
+  {
+    "id": "butterflies",
+    "file": "dist/images/cities/deerfieldil/rewards/butterflies-bush.svg",
+    "difficulty": 3,
+    "size": "small",
+    "customer_name": ["deerfieldil", "emmetcountymi"]
+  },
+  {
+    "id": "deer",
+    "file": "dist/images/cities/deerfieldil/rewards/deer.svg",
+    "difficulty": 2,
+    "size": "small",
+    "customer_name": ["deerfieldil", "madisoncountyny", "emmetcountymi", "univofmanitoba", "sunyoneonta"]
+  },
+  {
+    "id": "rental-bicycles",
+    "file": "dist/images/cities/fortworth/rewards/rental-bicycles.svg",
+    "difficulty": 3,
+    "size": "large",
+    "customer_name": ["fortworth"]
+  },
+  {
+    "id": "canoe",
+    "file": "dist/images/cities/dakotacountymn/rewards/canoe.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["dakotacountymn", "madisoncountyny", "emmetcountymi"]
+  },
+  {
+    "id": "canoe-and-people",
+    "file": "dist/images/cities/northumberlandon/rewards/canoe-and-people.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["northumberlandon"]
+  },
+  {
+    "id": "stagecoach",
+    "file": "dist/images/cities/olathe/rewards/stagecoach.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["olathe"]
+  },
+  {
+    "id": "bleu",
+    "file": "dist/images/cities/elpasotx/rewards/bleu.svg",
+    "difficulty": 3,
+    "size": "small",
+    "customer_name": ["elpasotx"]
+  },
+  {
+    "id": "streetcar",
+    "file": "dist/images/cities/elpasotx/rewards/streetcar.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["elpasotx"]
+  },
+  {
+    "id": "stadium",
+    "file": "dist/images/cities/elpasotx/rewards/stadium.svg",
+    "difficulty": 2,
+    "size": "large",
+    "customer_name": ["elpasotx"]
+  },
+  {
+    "id": "dolphins_jumping",
+    "file": "dist/images/cities/clearwaterfl/rewards/dolphins_jumping.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["clearwaterfl"]
+  },
+  {
+    "id": "raspberry-roundabout",
+    "file": "dist/images/cities/abbotsford/rewards/raspberry-roundabout.svg",
+    "difficulty": 1,
+    "size": "large",
+    "customer_name": ["abbotsford"]
+  },
+  {
+    "id": "mill-lake-park",
+    "file": "dist/images/cities/abbotsford/rewards/mill-lake-park.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["abbotsford"]
+  },
+  {
+    "id": "painterbench",
+    "file": "dist/images/cities/abbotsford/rewards/painterbench.svg",
+    "difficulty": 2,
+    "size": "small",
+    "customer_name": ["abbotsford"]
+  },
+  {
+    "id": "snowbirds",
+    "file": "dist/images/cities/abbotsford/rewards/snowbirds.svg",
+    "difficulty": 3,
+    "size": "large",
+    "customer_name": ["abbotsford"]
+  },
+  {
+    "id": "ladybug",
+    "file": "dist/images/cities/abbotsford/rewards/ladybug.svg",
+    "difficulty": 3,
+    "size": "large",
+    "customer_name": ["abbotsford"]
+  },
+  {
+    "id": "statue",
+    "file": "dist/images/cities/alexandriava/rewards/statue.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["alexandriava"]
+  },
+  {
+    "id": "baseball-park",
+    "file": "dist/images/cities/margatefl/rewards/baseball-park.svg",
+    "difficulty": 3,
+    "size": "small",
+    "customer_name": ["margatefl"]
+  },
+  {
+    "id": "litter-bug",
+    "file": "dist/images/cities/regionofwaterlooon/rewards/litter-bug.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["regionofwaterlooon"]
+  },
+  {
+    "id": "bandstand",
+    "file": "dist/images/cities/reverema/rewards/bandstand.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["reverema"]
+  },
+  {
+    "id": "uss-constitution",
+    "file": "dist/images/cities/reverema/rewards/uss-constitution.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["reverema"]
+  },
+  {
+    "id": "turtle",
+    "file": "dist/images/cities/columbiapsmo/rewards/turtle.svg",
+    "difficulty": 3,
+    "size": "small",
+    "customer_name": ["columbiapsmo", "emmetcountymi"]
+  },
+  {
+    "id": "grabber-truck",
+    "file": "dist/images/cities/farmersbranchtx/rewards/grabber-truck.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["farmersbranchtx"]
+  },
+  {
+    "id": "cow",
+    "file": "dist/images/cities/madisoncountyny/rewards/cow.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["madisoncountyny", "chilliwackbc"]
+  },
+  {
+    "id": "paddleboarder",
+    "file": "dist/images/cities/barrie/rewards/paddleboarder.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["barrie", "emmetcountymi"]
+  },
+  {
+    "id": "microwave-popcorn",
+    "file": "dist/images/cities/barrie/rewards/microwave-popcorn.svg",
+    "difficulty": 3,
+    "size": "small",
+    "customer_name": ["barrie"]
+  },
+  {
+    "id": "indian-trail-marker",
+    "file": "dist/images/cities/grandtraverse/rewards/indian-trail-marker.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["grandtraverse", "emmetcountymi"]
+  },
+  {
+    "id": "cart-with-recycle-logo",
+    "file": "dist/images/cities/eurekarecyclingmn/rewards/cart-with-recycle-logo.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["eurekarecyclingmn"]
+  },
+  {
+    "id": "bull",
+    "file": "dist/images/cities/durhamnc/rewards/bull.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["durhamnc"]
+  },
+  {
+    "id": "roadrunner",
+    "file": "dist/images/cities/peoriaaz/roadrunner.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["peoriaaz"]
+  },
+  {
+    "id": "kite",
+    "file": "dist/images/cities/northumberlandon/rewards/kite.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["northumberlandon", "sunyoneonta", "chilliwackbc"]
+  },
+  {
+    "id": "drums",
+    "file": "dist/images/cities/northumberlandon/rewards/drums.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["northumberlandon"]
+  },
+  {
+    "id": "lemonade-cup",
+    "file": "dist/images/cities/rhodeislandresource/rewards/lemonade-cup.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["rhodeislandresource"]
+  },
+  {
+    "id": "emmet-the-robot",
+    "file": "dist/images/cities/emmetcountymi/rewards/emmet-the-robot.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["emmetcountymi"]
+  },
+  {
+    "id": "meatball",
+    "file": "dist/images/cities/pastacity/rewards/meatball.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["pastacity"]
+  },
+  {
+    "id": "sauce",
+    "file": "dist/images/cities/pastacity/rewards/sauce.svg",
+    "difficulty": 2,
+    "size": "medium",
+    "customer_name": ["pastacity"]
+  },
+  {
+    "id": "rocket-playground",
+    "file": "dist/images/cities/whitby/rewards/rocket-playground.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["whitby"]
+  },
+  {
+    "id": "astronaut",
+    "file": "dist/images/cities/houstontx/rewards/astronaut.svg",
+    "difficulty": 1,
+    "size": "medium",
+    "customer_name": ["houstontx"]
+  },
+  {
+    "id": "bike-share-yellow",
+    "file": "dist/images/cities/lucascountyoh/rewards/bike-share-yellow.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["lucascountyoh"]
+  },
+  {
+    "id": "cruiser-bike",
+    "file": "dist/images/cities/fortcollinsco/rewards/cruiser-bike.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["fortcollinsco"]
+  },
+  {
+    "id": "rocket-slide",
+    "file": "dist/images/cities/westerndisposal/rewards/rocket-slide.svg",
+    "difficulty": 3,
+    "size": "large",
+    "customer_name": ["westerndisposal"]
+  },
+  {
+    "id": "uncle-sam-wilson",
+    "file": "dist/images/cities/troyny/rewards/uncle-sam-wilson.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["troyny"]
+  },
+  {
+    "id": "frank-the-raccoon",
+    "file": "dist/images/cities/emmetcountymi/rewards/frank-the-raccoon.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["emmetcountymi", "grandtraverse", "rrrasoc", "marquettecountymi", "chilliwackbc"]
+  },
+  {
+    "id": "smokey",
+    "file": "dist/images/cities/univoftennessee/rewards/smokey.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["univoftennessee"]
+  },
+  {
+    "id": "sasquatch",
+    "file": "dist/images/cities/tacomawa/rewards/sasquatch.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["tacomawa", "chilliwackbc"]
+  },
+  {
+    "id": "som-tent",
+    "file": "dist/images/cities/halton/rewards/som-tent.svg",
+    "difficulty": 3,
+    "size": "large",
+    "customer_name": ["halton"]
+  },
+  {
+    "id": "recycle-robbie",
+    "file": "dist/images/cities/saccounty/rewards/recycle-robbie.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["saccounty"]
+  },
+  {
+    "id": "tree-planting",
+    "file": "dist/images/cities/lincolnne/rewards/tree-planting.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["lincolnne", "univofmanitoba", "sunyoneonta", "chilliwackbc"]
+  },
+  {
+    "id": "golden-boy",
+    "file": "dist/images/cities/univofmanitoba/rewards/golden-boy.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["univofmanitoba"]
+  },
+  {
+    "id": "ice-skates",
+    "file": "dist/images/cities/univofmanitoba/rewards/ice-skates.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["univofmanitoba"]
+  },
+  {
+    "id": "red-dragon",
+    "file": "dist/images/cities/sunyoneonta/rewards/red-dragon.svg",
+    "difficulty": 3,
+    "size": "medium",
+    "customer_name": ["sunyoneonta"]
+  },
+  {
+    "id": "squirrel",
+    "file": "dist/images/cities/tacomawa/rewards/squirrel.svg",
+    "difficulty": 2,
+    "size": "large",
+    "customer_name": ["tacomawa"]
+  },
+  {
+    "id": "orange-tree",
+    "file": "dist/images/cities/orangecountyfl/rewards/orange-tree.svg",
+    "difficulty": 2,
+    "size": "large",
+    "customer_name": ["orangecountyfl"]
+  },
+  {
+    "id": "canada-goose",
+    "file": "dist/images/cities/univofwaterloo/rewards/canada-goose.svg",
+    "difficulty": 2,
+    "size": "small",
+    "customer_name": ["univofwaterloo", "stratfordcampus"]
+  },
+  {
+    "id": "swan",
+    "file": "dist/images/cities/stratfordcampus/rewards/swan.svg",
+    "difficulty": 2,
+    "size": "medium",
+    "customer_name": ["stratfordcampus"]
+  },
+  {
+    "id": "red-roller-caster",
+    "file": "dist/images/cities/yorkcountysc/rewards/red-roller-coaster.svg",
+    "difficulty": 2,
+    "size": "extra-large",
+    "customer_name": ["yorkcountysc"]
+  },
+    {
+    "id": "barge-chilling",
+    "file": "dist/images/cities/vancouver/rewards/barge-chilling.svg",
+    "difficulty": 2,
+    "size": "medium",
+    "customer_name": ["vancouver"]
+  }
+]
