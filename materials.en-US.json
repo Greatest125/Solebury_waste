@@ -1,13 +1,6 @@
 {
    "streams":[
       {
-         "page_id":274796,
-         "label":"Bulk Pick-Up (311)",
-         "position":"orange-truck",
-         "page_name":"game_bulk_pick-up",
-         "id":"bulkpickup"
-      },
-      {
          "id":"Food Waste Drop-Off",
          "page_name":"game_food_waste_drop-off",
          "position":"washingtondc-tent",
